@@ -60,7 +60,7 @@
 
    ***只有输入正确的正则表达式，才能进行其余操作***
 
-   <img src="D:\Python\Graphics\UI2.png" alt="alt 具体操作" style="zoom:60%;" />
+    ![alt 界面](UI2.png "正则表达式转最小化DFA")
 
 ___测试结果直接给出再输入栏下方___
 
